@@ -47,8 +47,26 @@ Screenshots
 
 2. Dashboard
 
-https://github.com/HariniReddy07/whatbytes/blob/1c22d173defd1a303d17c2faa4de2cae4a116b2c/whatBytes/myproject/DashBoard.png
+![image_alt](https://github.com/HariniReddy07/whatbytes/blob/1c22d173defd1a303d17c2faa4de2cae4a116b2c/whatBytes/myproject/DashBoard.png)
 
 3. FORGOT PASSWORD
 
-https://github.com/HariniReddy07/whatbytes/blob/a3a2a3f64663ffc54bbb86164d1f2939984a5d95/whatBytes/myproject/ForgotPassword.png
+![image_alt](https://github.com/HariniReddy07/whatbytes/blob/a3a2a3f64663ffc54bbb86164d1f2939984a5d95/whatBytes/myproject/ForgotPassword.png)
+
+
+4. Log Out
+
+![image_alt](https://github.com/HariniReddy07/whatbytes/blob/2aea2d8144df2b000f5c2d8d2ba6dbdc9d62dc00/whatBytes/myproject/LogOut.png)
+
+5. Profile
+
+![image_alt](https://github.com/HariniReddy07/whatbytes/blob/2aea2d8144df2b000f5c2d8d2ba6dbdc9d62dc00/whatBytes/myproject/Profile.png)
+
+6. SignUp
+
+![image_alt](https://github.com/HariniReddy07/whatbytes/blob/2aea2d8144df2b000f5c2d8d2ba6dbdc9d62dc00/whatBytes/myproject/SignUp.png)
+
+7. change_password
+
+![image_alt](https://github.com/HariniReddy07/whatbytes/blob/2aea2d8144df2b000f5c2d8d2ba6dbdc9d62dc00/whatBytes/myproject/change_password.png)
+
