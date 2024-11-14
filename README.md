@@ -43,7 +43,7 @@ Access the app at http://127.0.0.1:8000/.
 Screenshots
 
 1. LOGIN PAGE
-![image alt](https://github.com/HariniReddy07/whatbytes/blob/23a04edcbe842d8462b2f007d29a13fece509a60/whatBytes/myproject/login%20page.png)
+![image alt](https://github.com/HariniReddy07/whatbytes/blob/e502e2d86449a087b65d933270ae8c6ede96044d/whatBytes/myproject/loginPage.png))
 
 2. Dashboard
 
