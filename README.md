@@ -44,3 +44,7 @@ Screenshots
 
 1. LOGIN PAGE
 ![image alt](https://github.com/HariniReddy07/whatbytes/blob/23a04edcbe842d8462b2f007d29a13fece509a60/whatBytes/myproject/login%20page.png)
+
+2. Dashboard
+
+https://github.com/HariniReddy07/whatbytes/blob/1c22d173defd1a303d17c2faa4de2cae4a116b2c/whatBytes/myproject/DashBoard.png
